@@ -1,80 +1,72 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=12037616)
-# Práctica Editors
+# Práctica: Editors
 
-Autor: Juan Salvador Magariños Alba - alu0101352145
+Autor: Ainoa Iglesias Dasilva - alu0101164403
 
-## Ítems de la rúbrica conseguidos
 
-* GitPod: dado de alta e informe correcto
+## Objetivos
+* Estudie y configure GitPod para trabajar con GitHub
+* Instale VSCode en su máquina
+* Siga los tutoriales de VSCode
+* Instale el plugin Remote SSH y aprenda a usarlo
+* Use Live Share para colaborar con un compañero
+* Elabore un informe con la experiencia adquirida en el repositorio asignado
 
-  * Me he dado de alta en GitPod, de forma que puedo acceder a él prefijando la URL que aparece en el navegador cuando se está en el repositorio con "gitpod.io/#", como se ve en la imagen.
 
-  ![instalado_gitpod](doc/Instalado_gitpod_1.png)
+## Pasos seguidos
+Esta práctica busca conocer y aprender GitPod y características de VSCode. VSCode es el editor de código que uso normalmente y herramientas como Remote SSH y Live Share ya las tenía instaladas y las he usado anteriormente.
 
-  * Si introducimos la dirección de la imagen anterior, nos lleva a GitPod, presentando un entorno muy similar al de VSCode. En este caso, aparece vacío porque el repositorio está vacío en el momento de redactar este apartado.
+* GitPod
 
-  * El informe de cómo utilizar GitPod aparece en el apartado final de este README.md.
+  * Alta dada en Gitpod. Ahora se puede acceder desde el repositorio:
 
-  ![interfaz_gitpod](doc/Instalado_gitpod_2.png)
+![Alt text](./doc/image-1.png)
 
-* Instalado botón gitpod en su browser
+![Alt text](./doc/image.png)
+
+* Instalado botón gitpod en el browser:
 
   * He instalado la extensión de Chrome que permite utilizar el botón de GitPod, como se ve en la imagen.
 
-  ![boton_navegador](doc/boton_navegador.png)
+  ![Alt text](./doc/image-2.png)
 
-* Ha usado gitpod: Open in VSCode
+* He usado gitpod: Open in VSCode
 
   * Una vez abierto GitPod en el navegador, al seleccionar la opción "Open in VSCode" es posible abrir el GitPod en VSCode en la máquina local.
 
-  ![gitpod_en_vscode_1](doc/gitpod_en_vscode_1.png)
+  ![Alt text](./doc/image-3.png)
 
-  * Por ejemplo, si creamos un archivo de prueba:
+  * Por ejemplo, si se crea un archivo de prueba:
 
-  ![gitpod_en_vscode_2](doc/gitpod_en_vscode_2.png)
+![Alt text](./doc/image-5.png)
 
   * Los cambios se ven reflejados en la pestaña de GitPod en el navegador.
 
-  ![gitpod_en_vscode_3](doc/gitpod_en_vscode_3.png)
+![Alt text](./doc/image-4.png)
 
-* GitPod: Se ha acogido a la oferta para estudiantes
-
-  * He actualizado el plan a la versión para estudiantes, que incluye 100 horas de uso de GitPod.
-
-  ![plan_estudiante](doc/plan_estudiante.png)
 
 * Instalado SSH plugin para VSCode y funciona con máquina del iaas
 
   * Se ha instalado el plugin Remote-SSH.
 
-  ![instalar_remotessh](doc/instalar_remotessh.png)
+![Alt text](./doc/image-6.png)
 
   * Una vez instalado, se ha probado con la máquina del IaaS, como se ve en la imagen. "PL" es un alias de la máquina.
 
-  ![ssh_con_vscode](doc/ssh_con_vscode.png)
+![Alt text](./doc/image-8.png)
 
 * LiveShare instalado y funcionando correctamente
 
-  * He instalado la extensión LiveShare en la máquina virtual y, como se ve en la imagen, lo he probado con un compañero. Al pulsar en el botón "Share", se copia en el portapapeles el enlace a la sesión de LiveShare, que se puede usar para unirse a ella. Para ello, es necesario iniciar sesión en GitHub.
+![Alt text](./doc/image-7.png)
 
-  ![liveshare](doc/liveshare.png)
+## Maneras de usar GitPod
 
-## Informe de cómo utilizar GitPod
+* Botón del navegador que aparece tras instalar la extensión de chrome y botón en el repositorio de GitHub:
 
-* Se puede utilizar GitPod mediante las herramientas instaladas durante la realización de la práctica. Las diferentes posibilidades son:
+![Alt text](./doc/image-9.png)
 
-  * Botón del navegador: después de abrir un repositorio, es posible pulsar el botón instalado gracias a la extensión de Chrome para abrir una pestaña del navegador que presenta una interfaz similar a VSCode.
+![Alt text](./doc/image-10.png)
 
-  ![boton_navegador_tutorial](doc/boton_navegador_tutorial.png)
+* VSCode abriendolo a através de la opción de Open in VsCode:
 
-  * VSCode: tras abrir GitPod con el botón del navegador, se puede clicar en "Open in VSCode" para abrir una ventana de VSCode en la que se puede editar el contenido del repositorio. Además, los cambios hechos en la pestaña del navegador se reflejan en la ventana de VSCode.
-
-  ![boton_vscode_tutorial](doc/boton_vscode_tutorial.png)
-
-  * Botón del GitHub: también es posible clicar el botón "GitPod" que aparece en la pestaña "Code" del repositorio para abrir una pestaña del navegador con el entorno de GitPod.
-
-  ![boton_gitpod_tutorial](doc/boton_gitpod_tutorial.png)
-
-## Experiencia adquirida en la práctica
-
-* En esta práctica he aprendido principalmente las diferentes formas de acceder a GitPod, expuestas en el apartado anterior. Además he podido instalar el plugin de SSH y utilizarlo para conectarme a la máquina virtual y abrir el repositorio del proyecto con VSCode para editar los archivos cómodamente. Por último, he instalado también LiveShare en el VSCode de la máquina virtual para poder establecer sesiones cooperativas de trabajo con compañeros.
+![Alt text](./doc/image-11.png)
